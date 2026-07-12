@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.vscode/
+.idea/
